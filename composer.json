@@ -1,0 +1,20 @@
+{
+    "name": "rwei9/auto",
+    "autoload": {
+        "psr-4": {
+            "Rwei9\\Auto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rwei",
+            "email": "rwei920821@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+        "Demo\\": "./src/Demo"
+        }  
+    }
+}
